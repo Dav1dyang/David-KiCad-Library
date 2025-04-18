@@ -1,0 +1,18 @@
+.2061-602_998-404 :1 ;SMD PCB terminal block; push-button; 1.5 mm; Pin spacing 6 mm; 2-pole; Push-in CAGE CLAMP; in tape-and-reel packaging
+"2061602998404"
+*STM J
+*NGS
+*PLB 1="1.1" 2="1.2" 3="2.1" 4="2.2"
+*MXP 4
+*DFN 2061-602_998-404
+~!Manufacturer_Name (Wago)
+~!Manufacturer_Part_Number (2061-602/998-404)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (2061-602/998-404)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/2061-602998-404/wago-kontakttechnik-gmbh?utm_currency=USD&region=europe)
+~!Link Datasheet (https://www.wago.com/2061-602/998-404)
+~!Height (5.6mm)
+~!3D_Model (2061-602_998-404)
+"2061-602_998-404"
+1.1!U 2.1!U 3.1!U 4.1!U 

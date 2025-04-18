@@ -1,0 +1,9 @@
+Manufacturer=Monolithic Power Systems (MPS)
+PartNumber=MP2307DN-LF-Z
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=1.1
+Released=2018-01-05 09:58:24
+Downloaded=2025-04-18 14:15:18
+3D=Y

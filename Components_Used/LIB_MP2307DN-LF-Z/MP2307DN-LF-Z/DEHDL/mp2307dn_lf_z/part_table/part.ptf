@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MP2307DN_LF_Z'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Monolithic Power Systems (MPS)", "MP2307DN-LF-Z" (!) = "", "SOIC127P600X170-9N", "Small Outline Packages", "946-MP2307DNLFZ", "https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MP2307DN-LF-Z?qs=rC7bBWoQAAmsFilkwcof5g%3D%3D", "", "", "Switching Voltage Regulators 3A/23VSynchRectified Step-down Converter", "http://www.mouser.com/ds/2/277/MP2307_r1.9-371737.pdf", "1.7 mm"
+END_PART
+
+END.

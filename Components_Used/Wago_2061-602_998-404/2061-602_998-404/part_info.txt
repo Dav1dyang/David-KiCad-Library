@@ -1,0 +1,9 @@
+Manufacturer=Wago
+PartNumber=2061-602/998-404
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=4.8
+Released=2023-05-26 12:05:06
+Downloaded=2025-04-18 13:46:59
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2061_602_998_404'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wago", "2061-602/998-404" (!) = "", "2061602998404", "Other", "", "", "2061-602/998-404", "https://www.arrow.com/en/products/2061-602998-404/wago-kontakttechnik-gmbh?utm_currency=USD&region=europe", "SMD PCB terminal block; push-button; 1.5 mm; Pin spacing 6 mm; 2-pole; Push-in CAGE CLAMP; in tape-and-reel packaging", "https://www.wago.com/2061-602/998-404", "5.6 mm"
+END_PART
+
+END.

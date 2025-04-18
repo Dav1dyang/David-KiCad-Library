@@ -1,0 +1,18 @@
+.MP2307DN-LF-Z :1 ;Switching Voltage Regulators 3A/23VSynchRectified Step-down Converter
+SOIC127P600X170-9N
+*STM IC
+*NGS
+*PLB 1="BS" 2="IN" 3="SW" 4="GND" 5="FB" 6="COMP" 7="EN" 8="SS" 9="EP"
+*MXP 9
+*DFN MP2307DN-LF-Z
+~!Manufacturer_Name (Monolithic Power Systems (MPS))
+~!Manufacturer_Part_Number (MP2307DN-LF-Z)
+~!Mouser Part Number (946-MP2307DNLFZ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MP2307DN-LF-Z?qs=rC7bBWoQAAmsFilkwcof5g%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.mouser.com/ds/2/277/MP2307_r1.9-371737.pdf)
+~!Height (1.7mm)
+~!3D_Model (MP2307DN-LF-Z)
+MP2307DN-LF-Z
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 
