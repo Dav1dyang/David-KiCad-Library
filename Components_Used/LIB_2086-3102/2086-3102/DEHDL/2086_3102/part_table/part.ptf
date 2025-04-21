@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2086_3102'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wago", "2086-3102" (!) = "", "20863102", "Other", "", "", "", "", "THR PCB terminal block; push-button; 1.5 mm; Pin spacing 5 mm; 2-pole; Push-in CAGE CLAMP", "https://www.wago.com/2086-3102", "13.6 mm"
+END_PART
+
+END.

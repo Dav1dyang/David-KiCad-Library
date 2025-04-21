@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KW_DELSS2.CC_BXCY_4L8N_46A8'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ams OSRAM", "KW DELSS2.CC-BXCY-4L8N-46A8" (!) = "", "KWDELSS2CCBXCY4L8N46A8", "Other", "720-KWDELSS2CCA1206", "https://www.mouser.co.uk/ProductDetail/ams-OSRAM/KW-DELSS2.CC-BXCY-4L8N-46A8?qs=81r%252BiQLm7BR75IBLCY4pIw%3D%3D", "", "", "White LEDs White 4000K OSTUNE E1608 30mA", "https://look.ams-osram.com/m/69a4e086f3af494f/original/KW-DELSS2-CC.pdf", "0.7 mm"
+END_PART
+
+END.

@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_16010934"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-02-06-06:35:37)
+    (utime 2025-02-06-06:35:37)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "KW_DELSS2_CC-BXCY-4L8N-46A8")
+)
+
+
+(pinAssign "ECS_16010934"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-02-06-06:35:37)
+    (utime 2025-02-06-06:35:37)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_16010934")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "KW_DELSS2_CC-BXCY-4L8N-46A8")
+)
+
+
+(part "KW_DELSS2_CC-BXCY-4L8N-46A8"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-02-06-06:35:37)
+    (utime 2025-02-06-06:35:37)
+    (packageRef "KW_DELSS2_CC-BXCY-4L8N-46A8")
+    (pinAssignRef "ECS_16010934")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "White LEDs White 4000K OSTUNE E1608 30mA")
+    (property "Manufacturer_Name" "ams OSRAM")
+    (property "Manufacturer_Part_Number" "KW DELSS2.CC-BXCY-4L8N-46A8")
+    (property "Mouser_Part_Number" "720-KWDELSS2CCA1206")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/ams-OSRAM/KW-DELSS2.CC-BXCY-4L8N-46A8?qs=81r%252BiQLm7BR75IBLCY4pIw%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://look.ams-osram.com/m/69a4e086f3af494f/original/KW-DELSS2-CC.pdf")
+    (property "compAreaTopHeight" 0.7)
+)
+
+

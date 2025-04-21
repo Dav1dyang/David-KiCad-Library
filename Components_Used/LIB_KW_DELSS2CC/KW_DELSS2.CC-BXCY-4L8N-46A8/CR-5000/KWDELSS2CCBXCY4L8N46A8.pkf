@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "KWDELSS2CCBXCY4L8N46A8"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "KWDELSS2CCBXCY4L8N46A8")
+        (spec "default")
+    )
+)

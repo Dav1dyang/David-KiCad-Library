@@ -1,0 +1,9 @@
+Manufacturer=Wago
+PartNumber=2086-3102
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=3.6
+Released=2024-04-08 10:08:47
+Downloaded=2025-04-20 23:23:44
+3D=Y

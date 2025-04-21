@@ -1,0 +1,9 @@
+Manufacturer=ams OSRAM
+PartNumber=KW DELSS2.CC-BXCY-4L8N-46A8
+PartCategory=LED
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2025-02-06 06:35:37
+Downloaded=2025-04-21 03:57:49
+3D=Y

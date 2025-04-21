@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2086-3102
+D THR PCB terminal block; push-button; 1.5 mm; Pin spacing 5 mm; 2-pole; Push-in CAGE CLAMP
+K
+F https://www.wago.com/2086-3102
+$ENDCMP
+#
+#End Doc Library
