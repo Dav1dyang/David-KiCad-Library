@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "WS2811F"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-04-14-10:56:32)
+    (mountForm default
+        (footprintRef "SOT80P285X114-8N")
+        (spec "System")
+    )
+)

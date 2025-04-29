@@ -1,0 +1,150 @@
+(footprint "MY-PCB-116-R"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 3.11 -0.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "53cc8c81-35fd-4ca1-b66b-befe377e0b35")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Untitled"
+		(at 3.11 4.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ad53d748-03d9-4026-817e-f325ac476e7d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0.31 0.3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "80abc493-b744-4f60-88a6-0f9f5f4f14c1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0.31 0.3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e67100d-41ad-49be-b74c-24e7e7f711bd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 0.06 0.05)
+		(end 0.06 3.35)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4aa218a0-164c-4484-86e2-10d6e0a13fef")
+	)
+	(fp_line
+		(start 0.06 0.05)
+		(end 5.36 0.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7a8981ef-2e1e-46bb-ad58-5e4d8c1057ce")
+	)
+	(fp_line
+		(start 0.06 3.35)
+		(end 5.36 3.35)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2611d286-1ad2-4c4b-bd0b-d473cd2cff96")
+	)
+	(fp_line
+		(start 5.36 0.05)
+		(end 5.36 3.35)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2664e907-21b2-440a-b29e-a49913f51e8f")
+	)
+	(fp_circle
+		(center 0.21 -0.3)
+		(end 0.11 -0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "4afd89ff-ebfc-465d-b135-f7f5d8f92f63")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.8 5.6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7ae94b56-d19b-49de-97b8-ad7663557799")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at 2.9 1.9)
+		(size 1.27 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy -0.9525 -0.4445) (xy -0.937999 -0.517401) (xy -0.896704 -0.579204) (xy -0.834901 -0.620499)
+					(xy -0.762 -0.635) (xy 0.762 -0.635) (xy 0.834901 -0.620499) (xy 0.896704 -0.579204) (xy 0.937999 -0.517401)
+					(xy 0.9525 -0.4445) (xy 0.9525 0.4445) (xy 0.937999 0.517401) (xy 0.896704 0.579204) (xy 0.834901 0.620499)
+					(xy 0.762 0.635) (xy -0.762 0.635) (xy -0.834901 0.620499) (xy -0.896704 0.579204) (xy -0.937999 0.517401)
+					(xy -0.9525 0.4445)
+				)
+				(width 0)
+				(fill yes)
+			)
+			(gr_rect
+				(start -2.59 -1.6)
+				(end 2.21 1.2)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "1b1ba71a-a0da-43ef-a63f-0a1f01aaa8da")
+	)
+	(embedded_fonts no)
+)

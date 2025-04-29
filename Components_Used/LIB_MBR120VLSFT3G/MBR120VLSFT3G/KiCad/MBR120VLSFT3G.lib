@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MBR120VLSFT3G
+#/288845/1073430/2.50/2/2/Schottky Diode
+DEF MBR120VLSFT3G D 0 30 Y Y 1 F N
+F0 "D" 500 350 50 H V L CNN
+F1 "MBR120VLSFT3G" 500 250 50 H V L CNN
+F2 "SODFL3616X98N" 500 150 50 H I L CNN
+F3 "https://www.onsemi.com/pub/Collateral/MBR120VLSFT1-D.PDF" 500 50 50 H I L CNN
+F4 "Guardring for Stress Protection; Optimized for Very Low Forward Voltage; 125 C Operating Junction Temperature; Epoxy Meets UL94, VO; Package Designed for Optimal Automated Board Assembly; ESD Rated Machine Model C; ESD Rated Human Body Model 3B; Device Meets MSL 1 Requirements; Pb-Free Packages are Available" 500 -50 50 H I L CNN "Description"
+F5 "0.98" 500 -150 50 H I L CNN "Height"
+F6 "onsemi" 500 -250 50 H I L CNN "Manufacturer_Name"
+F7 "MBR120VLSFT3G" 500 -350 50 H I L CNN "Manufacturer_Part_Number"
+F8 "863-MBR120VLSFT3G" 500 -450 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/onsemi/MBR120VLSFT3G?qs=3JMERSakebrD2yr9jFliaA%3D%3D" 500 -550 50 H I L CNN "Mouser Price/Stock"
+F10 "MBR120VLSFT3G" 500 -650 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mbr120vlsft3g/on-semiconductor?utm_currency=USD&region=nac" 500 -750 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 100 0 100 R 50 50 0 0 P
+X ~ 2 700 0 100 L 50 50 0 0 P
+P 2 0 1 6 300 100 300 -100 N
+P 3 0 1 6 300 100 340 100 340 60 N
+P 3 0 1 6 300 -100 260 -100 260 -60 N
+P 2 0 1 6 200 0 300 0 N
+P 2 0 1 6 500 0 600 0 N
+P 4 0 1 10 300 0 500 100 500 -100 300 0 F
+ENDDRAW
+ENDDEF
+#
+#End Library

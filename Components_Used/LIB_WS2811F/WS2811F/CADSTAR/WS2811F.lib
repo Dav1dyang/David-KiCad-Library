@@ -1,0 +1,18 @@
+.WS2811F :1 ;OUTRGB40VDINDOUT30V  36VVDD 256   IC   PWM 2564KHz    4  30/1024  800Kbps
+SOT80P285X114-8N
+*STM IC
+*NGS
+*PLB 1="OUTR" 2="OUTG" 3="OUTB" 4="GND" 5="DO" 6="DIN" 7="NC" 8="VDD"
+*MXP 8
+*DFN WS2811F
+~!Manufacturer_Name (Worldsemi)
+~!Manufacturer_Part_Number (WS2811F)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.lcsc.com/datasheet/lcsc_datasheet_2412041609_Worldsemi-WS2811F_C5446692.pdf)
+~!Height (1.14mm)
+~!3D_Model (WS2811F)
+WS2811F
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

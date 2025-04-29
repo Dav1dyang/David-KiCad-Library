@@ -1,0 +1,9 @@
+Manufacturer=Worldsemi
+PartNumber=WS2811F
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (8-Pin)
+PinCount=8
+Version=1.1
+Released=2025-04-14 10:56:32
+Downloaded=2025-04-25 19:01:55
+3D=Y

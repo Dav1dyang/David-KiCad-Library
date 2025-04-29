@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_288845"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-06-08:53:24)
+    (utime 2025-01-22-16:53:39)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "MBR120VLSFT3G")
+)
+
+
+(pinAssign "ECS_288845"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-06-08:53:24)
+    (utime 2025-01-22-16:53:39)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_288845")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "MBR120VLSFT3G")
+)
+
+
+(part "MBR120VLSFT3G"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-06-08:53:24)
+    (utime 2025-01-22-16:53:39)
+    (packageRef "MBR120VLSFT3G")
+    (pinAssignRef "ECS_288845")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Guardring for Stress Protection; Optimized for Very Low Forward Voltage; 125 C Operating Junction Temperature; Epoxy Meets UL94, VO; Package Designed for Optimal Automated Board Assembly; ESD Rated Machine Model C; ESD Rated Human Body Model 3B; Device Meets MSL 1 Requirements; Pb-Free Packages are Available")
+    (property "Manufacturer_Name" "onsemi")
+    (property "Manufacturer_Part_Number" "MBR120VLSFT3G")
+    (property "Mouser_Part_Number" "863-MBR120VLSFT3G")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/MBR120VLSFT3G?qs=3JMERSakebrD2yr9jFliaA%3D%3D")
+    (property "Arrow_Part_Number" "MBR120VLSFT3G")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/mbr120vlsft3g/on-semiconductor?utm_currency=USD&region=nac")
+    (property "Datasheet_Link" "https://www.onsemi.com/pub/Collateral/MBR120VLSFT1-D.PDF")
+    (property "compAreaTopHeight" 0.98)
+)
+
+

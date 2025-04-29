@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=MBR120VLSFT3G
+PartCategory=Schottky Diode
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=2.1
+Released=2018-07-06 08:53:24
+Downloaded=2025-04-25 09:14:18
+3D=Y
