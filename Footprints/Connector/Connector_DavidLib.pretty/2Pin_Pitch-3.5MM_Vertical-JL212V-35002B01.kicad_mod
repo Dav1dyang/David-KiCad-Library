@@ -1,0 +1,197 @@
+(footprint "2Pin_Pitch-3.5MM_Vertical-JL212V-35002B01"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.85 -5.25 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "fc4c3239-55c5-4476-b64f-9887f876825d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "2Pin_Pitch-3.5MM_Vertical-JL212V-35002B01"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b25ebc2d-5c18-4948-9e8a-72115b49d18f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://jlcpcb.com/partdetail/Jiln-JL212V35002B01/C2962961"
+		(at -3.85 -4.35 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e6f0feb-3d31-4cae-9444-c90b635c8792")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -3.85 -4.35 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57d62c0e-6fdb-4f40-ab35-0d805f3d08ac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLC" "C2962961"
+		(at 0.35 5.15 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f33e55f9-e2e6-43f5-b0be-2b3e0b5d6b5b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.81 -4.318)
+		(end -3.81 -3.7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "faa7ce09-22b8-4841-8aac-410b89c97efc")
+	)
+	(fp_line
+		(start -3.81 -4.318)
+		(end -2.8448 -4.318)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f414827e-8fa3-4245-8f95-3f7654e77ace")
+	)
+	(fp_line
+		(start -2.8448 -4.318)
+		(end -3.81 -4.318)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c64c5a93-4736-4886-ada1-e2cbdb3099e7")
+	)
+	(fp_line
+		(start 3.81 3.81)
+		(end 3.81 4.318)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2d1893f7-4dc4-4b1c-b223-22ffe582c0cc")
+	)
+	(fp_line
+		(start 3.81 4.318)
+		(end 3.3528 4.318)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "56c1b56a-3b3a-4289-a9ee-7f6a77ec7fbf")
+	)
+	(fp_circle
+		(center -3.2 -3.7)
+		(end -3.5 -3.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "9b726734-94c1-48d9-ab81-d98cb7cff325")
+	)
+	(fp_rect
+		(start -3.95 -4.45)
+		(end 3.95 4.45)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "76c36df1-a8e6-4e00-b97c-80fb99e3f41c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 1.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6b2a50c7-0571-4b14-a5c5-98c47437b74a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -1.75 -2.75)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "86c71f9b-e62a-41e5-a43f-47b31af270f5")
+	)
+	(pad "1" thru_hole circle
+		(at -1.75 2.75)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e7a2b540-7755-4705-8e61-7cbef3130991")
+	)
+	(pad "2" thru_hole circle
+		(at 1.75 -2.75)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2907a6e2-1ce5-4f11-bb0f-cdb40bde52f5")
+	)
+	(pad "2" thru_hole circle
+		(at 1.75 2.75)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c7b2876a-df9d-4567-bbab-9c4dcb45d804")
+	)
+	(embedded_fonts no)
+	(model "/Users/davidyang/Documents/GitHub/David_KiCad_Library/3D_Models/Conn_2-Pos_C2962961.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

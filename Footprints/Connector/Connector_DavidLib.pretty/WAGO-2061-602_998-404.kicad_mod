@@ -12,7 +12,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.254)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -24,11 +24,11 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.254)
+				(thickness 0.15)
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "https://jlcpcb.com/partdetail/Wago-2061_602_998404/C2765058"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -49,6 +49,17 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLC" "C2765058"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "540fcf70-d3f8-41ae-ac52-41988984918c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 		)
 	)
@@ -255,6 +266,19 @@
 		(layer "F.Fab")
 		(uuid "2059b07a-afa4-4deb-bad0-7db28ecc218b")
 	)
+	(fp_text user "WIRE-IN"
+		(at -14.3256 0.5842 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "58d20464-b309-4d89-be43-b8ed8a31a2d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.153)
+			)
+			(justify left bottom)
+		)
+	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
@@ -291,7 +315,8 @@
 		(uuid "09859d53-d3c4-49f0-a37d-094968a3feb3")
 	)
 	(embedded_fonts no)
-	(model "2061-602_998-404.stp"
+	(model "/Users/davidyang/Documents/GitHub/David_KiCad_Library/Components_Used/Wago_2061-602_998-404/2061-602_998-404/3D/2061-602_998-404.stp"
+		(opacity 0.6700)
 		(offset
 			(xyz -7.869999767 -5.849999817 0.1500000037)
 		)

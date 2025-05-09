@@ -1,0 +1,151 @@
+(footprint "LED_PLCC-2_3014"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SMD LED, PLCC-2 3.0mm length, 1.4mm width, https://www.tme.eu/Document/6c0a43580aa62cfe77aa9a31554c3255/LTW-K140SZRXX-EU.pdf, Alternate KiCad Library")
+	(tags "LED plcc2 3.0x1.4")
+	(property "Reference" "REF**"
+		(at 0 -2.15 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a4c362d5-0d26-4625-adc9-02c35e7796c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED_PLCC-2_3014"
+		(at 0 2.1 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "66633ba5-494a-43c1-8b5b-e68cb76da608")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://jlcpcb.com/partdetail/211243-HL_A_3014H421W_S1_08HLHR3/C210343"
+		(at 0.05 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fef421cd-e515-4f5f-bd0f-5cb93c5678c9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "LED 3014 Package with Height at 0.70MM"
+		(at 0.05 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "62cdb07e-997a-47ce-812c-34a261d52fe6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLC" "C210343"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6921f1d6-364e-4f9a-b0c2-2d15db5d6d27")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -1.6 -0.675)
+		(end -1.4 -0.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "a7ad69de-449e-4f94-8b8d-3a15cec7cc93")
+	)
+	(fp_rect
+		(start -1.9 -0.95)
+		(end 1.9 0.95)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "c80aed60-deb8-4759-baad-1e4d42d8b34a")
+	)
+	(fp_line
+		(start -1.35 -0.25)
+		(end -0.9 -0.7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "9451b22c-8a5b-441e-838b-fdaf634c6053")
+	)
+	(fp_rect
+		(start -1.35 -0.7)
+		(end 1.35 0.7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "39f5d32c-ca62-4aff-918e-d4581bb8f2d2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "143c3f1c-fede-409f-a0a5-31e985dd0705")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.675 0 180)
+		(size 1.95 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "80404f9a-7657-426b-bbac-f27af16c86f2")
+	)
+	(pad "2" smd roundrect
+		(at 1.075 0 180)
+		(size 1.15 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "8c405511-426b-4007-a12e-481cf157ef86")
+	)
+	(embedded_fonts no)
+	(model "/Users/davidyang/Documents/GitHub/David_KiCad_Library/3D_Models/LED_PLCC-2_3014.step"
+		(offset
+			(xyz -0.76 -2.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
+)

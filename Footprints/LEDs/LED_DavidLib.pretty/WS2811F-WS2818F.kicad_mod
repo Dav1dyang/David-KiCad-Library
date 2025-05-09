@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "SOT23-8..")
+	(descr "SOT23-8")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
 		(at 0 -2.97 0)
@@ -253,7 +253,7 @@
 		(uuid "34ac8679-ca28-4871-99fc-61511896e154")
 	)
 	(embedded_fonts no)
-	(model "WS2811F.stp"
+	(model "/Users/davidyang/Documents/GitHub/David_KiCad_Library/Components_Used/LIB_WS2811F/WS2811F/3D/WS2811F.stp"
 		(offset
 			(xyz 0 0 0)
 		)

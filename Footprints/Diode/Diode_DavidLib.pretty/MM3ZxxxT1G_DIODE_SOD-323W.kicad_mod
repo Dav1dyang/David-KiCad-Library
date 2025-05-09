@@ -1,4 +1,4 @@
-(footprint "MM3Z3V0T1G_DIODE_SOD-323W"
+(footprint "MM3ZxxxT1G_DIODE_SOD-323W"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "MM3Z3V0T1G_DIODE_SOD-323W"
+	(property "Value" "MM3ZxxxT1G_DIODE_SOD-323W"
 		(at 3.7846 1.4986 0)
 		(layer "F.Fab")
 		(uuid "278bb31e-e2f0-402a-9279-66b41ed16793")
@@ -25,7 +25,7 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "https://jlcpcb.com/partdetail/Jsmsemi-MM3Z16W/C2856986"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -45,6 +45,18 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLC" "C2856986"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "5c5ab255-05f9-44df-8fd0-9e5c9536f6e0")
+		(effects
+			(font
+				(size 1 1)
 				(thickness 0.15)
 			)
 		)
@@ -172,19 +184,30 @@
 		(layer "F.Fab")
 		(uuid "933abbd1-18c9-4ee5-ba34-ff3529e6308d")
 	)
-	(pad "A" smd rect
-		(at 1.1125 0)
-		(size 0.625 0.83)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(solder_mask_margin 0.102)
-		(uuid "90815f9d-3ae2-4b6c-910d-4e6a93af0c25")
-	)
-	(pad "K" smd rect
+	(pad "1" smd rect
 		(at -1.1125 0)
 		(size 0.625 0.83)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "3749e944-a93c-4a7f-85bf-9fe16bb1a634")
 	)
+	(pad "2" smd rect
+		(at 1.1125 0)
+		(size 0.625 0.83)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "90815f9d-3ae2-4b6c-910d-4e6a93af0c25")
+	)
 	(embedded_fonts no)
+	(model "/Users/davidyang/Documents/GitHub/David_KiCad_Library/Components_Used/MM3Z16VT1G/MM3Z16VT1G.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

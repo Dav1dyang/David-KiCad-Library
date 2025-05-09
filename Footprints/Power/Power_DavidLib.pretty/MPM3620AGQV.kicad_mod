@@ -9,7 +9,7 @@
 		(uuid "b76f315b-66cd-4688-afcb-fad70c4046e4")
 		(effects
 			(font
-				(size 0.277669 0.277669)
+				(size 1 1)
 				(thickness 0.15)
 			)
 		)
@@ -20,7 +20,7 @@
 		(uuid "b4cc7d12-82ec-45a3-a829-34c177db2857")
 		(effects
 			(font
-				(size 0.275911 0.275911)
+				(size 1 1)
 				(thickness 0.15)
 			)
 		)
@@ -81,8 +81,8 @@
 		(uuid "fec991fc-f8c9-469d-bcae-7d7cea19f238")
 	)
 	(fp_circle
-		(center -2.15 -1.55)
-		(end -2.085 -1.55)
+		(center -1.8034 -2.2098)
+		(end -1.7384 -2.2098)
 		(stroke
 			(width 0.127)
 			(type solid)
@@ -381,4 +381,15 @@
 		)
 	)
 	(embedded_fonts no)
+	(model "/Users/davidyang/Documents/GitHub/David_KiCad_Library/Components_Used/MPM3610AGQV-P/MPM3610AGQV-P.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )
