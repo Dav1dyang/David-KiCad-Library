@@ -1,0 +1,9 @@
+Manufacturer=XUNPU
+PartNumber=TS-1088-AR02016
+PartCategory=Switch
+PackageCategory=Other
+PinCount=2
+Version=1.4
+Released=2022-10-23 09:37:56
+Downloaded=2025-09-01 22:35:37
+3D=Y

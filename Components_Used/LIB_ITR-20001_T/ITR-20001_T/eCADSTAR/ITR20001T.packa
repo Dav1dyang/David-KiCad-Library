@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ITR-20001_T"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-18-15:53:27)
+    (mountForm default
+        (footprintRef "ITR20001T")
+        (spec "System")
+    )
+)

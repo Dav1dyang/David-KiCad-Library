@@ -1,0 +1,18 @@
+.TL1105DF160Q :1 ;TACT, 50mA, 12VDC SPST-NO, Off-(On) Through Hole
+TL1105
+*STM S
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN TL1105DF160Q
+~!Manufacturer_Name (E-Switch)
+~!Manufacturer_Part_Number (TL1105DF160Q)
+~!Mouser Part Number (612-TL1105D)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/E-Switch/TL1105DF160Q?qs=YXf4ACKMM4wXXiMkmou82Q%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://configured-product-images.s3.amazonaws.com/2D/specs/TL1105DF160Q.pdf)
+~!Height (-)
+~!3D_Model (TL1105DF160Q)
+TL1105DF160Q
+1.1!U 2.1!U 3.1!U 4.1!U 

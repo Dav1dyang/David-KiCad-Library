@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'WS2813B_V5'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Worldsemi", "WS2813B-V5" (!) = "", "WS2813BV5", "Other", "", "", "", "", "SMD,5.4x5.0x1.65mm Light Emitting Diodes (LED) RoHS", "https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2813B-V5_C965558.pdf", "1.7 mm"
+END_PART
+
+END.

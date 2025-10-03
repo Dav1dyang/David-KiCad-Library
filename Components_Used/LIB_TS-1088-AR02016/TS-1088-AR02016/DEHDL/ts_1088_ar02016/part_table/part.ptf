@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TS_1088_AR02016'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "XUNPU", "TS-1088-AR02016" (!) = "", "TS1088AR02016", "Other", "", "", "", "", "Tact Switch", "https://www.xunpudianzi.com/uploads/pdf/TS-1088-ARXXX.pdf", "2 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=G-Switch Electronic
+PartNumber=MK-11C04-G013
+PartCategory=Switch
+PackageCategory=Other
+PinCount=5
+Version=1.11
+Released=2025-03-14 06:48:18
+Downloaded=2025-05-20 05:42:08
+3D=N

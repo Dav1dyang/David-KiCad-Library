@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TL1105"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TL1105")
+        (spec "default")
+    )
+)

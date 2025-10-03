@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MK_11C04_G013'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "G-Switch Electronic", "MK-11C04-G013" (!) = "", "MK11C04G013", "Other", "", "", "", "", "Horizontal attachment 1A Single Pole Double Throw (SPDT) 6V Black 10,000 times SMD Slide Switches ROHS", "https://www.dg-switch.com/uploads/soft/200615/%E5%93%81%E8%B5%9EMK-11C04-G013.pdf?fbclid=IwZXh0bgNhZW0CMTEAAR0AJCzNXSbXm6tv7QD29iqmkU7HUOTzQEjSSoqvyCwOAtUnKQu-KuAmiDE_aem_1ELsU2yAje-H6Aq4_4J2tg", "0.9 mm"
+END_PART
+
+END.

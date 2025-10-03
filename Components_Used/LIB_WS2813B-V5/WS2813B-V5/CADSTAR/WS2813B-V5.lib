@@ -1,0 +1,18 @@
+.WS2813B-V5 :1 ;SMD,5.4x5.0x1.65mm Light Emitting Diodes (LED) RoHS
+WS2813BV5
+*STM LED
+*NGS
+*PLB 1="BO" 2="VCC" 3="DO" 4="DI" 5="GND" 6="BI"
+*MXP 6
+*DFN WS2813B-V5
+~!Manufacturer_Name (Worldsemi)
+~!Manufacturer_Part_Number (WS2813B-V5)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2813B-V5_C965558.pdf)
+~!Height (1.7mm)
+~!3D_Model (WS2813B-V5)
+WS2813B-V5
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

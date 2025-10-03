@@ -1,0 +1,110 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TS-1088-AR02016"
+   (description "Tact Switch")
+   (family "SWI")
+   (package "TS1088AR02016")
+   (attribute "Datasheet Link" "https://www.xunpudianzi.com/uploads/pdf/TS-1088-ARXXX.pdf")
+   (attribute "Geometry.Height" "2mm")
+   (attribute "Manufacturer_Name" "XUNPU")
+   (attribute "Manufacturer_Part_Number" "TS-1088-AR02016")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "TS-1088-AR02016")
+    (pin "COM" 1 PS)
+    (pin "NO" 2 PS)
+   )
+  )
+  (symbol "TS-1088-AR02016"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TS1088AR02016"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2 1.45)
+      (pt 2 1.45)
+      (pt 2 -1.45)
+      (pt -2 -1.45)
+      (pt -2 1.45))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.75 2.45)
+      (pt 3.75 2.45)
+      (pt 3.75 -2.45)
+      (pt -3.75 -2.45)
+      (pt -3.75 2.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2 1.45)
+      (pt 2 1.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2 -1.45)
+      (pt 2 -1.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.2 0)
+      (arc (pt -3.200 0.000) (pt -3.300 -0.050) (pt -3.200 0.050) (start 180.0) (sweep .0))
+      (pt -3.3 0)
+      (arc (pt -3.300 0.000) (pt -3.300 -0.050) (pt -3.200 0.050) (start 180.0) (sweep 180.0))
+      (pt -3.2 0))))
+   (leg 1 (pt -2.075 0.000) (padstack 0))
+   (leg 2 (pt 2.075 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.350 1.800 0 0 90.000))
+   )
+   (model "TS-1088-AR02016.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

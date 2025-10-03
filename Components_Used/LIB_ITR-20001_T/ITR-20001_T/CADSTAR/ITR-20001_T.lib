@@ -1,0 +1,18 @@
+.ITR-20001_T :1 ;Opto Interrupter
+ITR20001T
+*STM U
+*NGS
+*PLB 1="ANODE" 2="CATHODE" 3="EMITTER" 4="COLLECTOR"
+*MXP 4
+*DFN ITR-20001_T
+~!Manufacturer_Name (Everlight)
+~!Manufacturer_Part_Number (ITR-20001/T)
+~!Mouser Part Number (638-ITR20001T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Everlight/ITR-20001-T?qs=8cKuZ6Ok2lYR9Tx%2FjFngeQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.mouser.com/datasheet/2/143/201407061627485481-597080.pdf)
+~!Height (6.8mm)
+~!3D_Model (ITR-20001_T)
+ITR-20001_T
+1.1!U 2.1!U 3.1!U 4.1!U 

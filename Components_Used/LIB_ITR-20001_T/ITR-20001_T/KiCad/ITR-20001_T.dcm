@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ITR-20001_T
+D Opto Interrupter
+K
+F https://www.mouser.com/datasheet/2/143/201407061627485481-597080.pdf
+$ENDCMP
+#
+#End Doc Library

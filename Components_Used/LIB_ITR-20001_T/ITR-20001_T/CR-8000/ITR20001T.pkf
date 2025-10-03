@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ITR20001T"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ITR20001T")
+        (spec "default")
+    )
+)

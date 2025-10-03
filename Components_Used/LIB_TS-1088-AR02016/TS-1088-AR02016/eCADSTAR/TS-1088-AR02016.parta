@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_17079416"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-23-09:37:56)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "TS-1088-AR02016")
+)
+
+
+(pinAssign "ECS_17079416"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-23-09:37:56)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "COM") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "NO") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_17079416")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "TS-1088-AR02016")
+)
+
+
+(part "TS-1088-AR02016"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-23-09:37:56)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "TS-1088-AR02016")
+    (pinAssignRef "ECS_17079416")
+    (interface
+        (port "1" (symbPinId 1) (portName "COM") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "NO") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "S")
+    (property "description" "Tact Switch")
+    (property "Manufacturer_Name" "XUNPU")
+    (property "Manufacturer_Part_Number" "TS-1088-AR02016")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.xunpudianzi.com/uploads/pdf/TS-1088-ARXXX.pdf")
+    (property "compAreaTopHeight" 2)
+)
+
+

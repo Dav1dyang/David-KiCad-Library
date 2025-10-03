@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WS2813B-V5
+D SMD,5.4x5.0x1.65mm Light Emitting Diodes (LED) RoHS
+K
+F https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2813B-V5_C965558.pdf
+$ENDCMP
+#
+#End Doc Library

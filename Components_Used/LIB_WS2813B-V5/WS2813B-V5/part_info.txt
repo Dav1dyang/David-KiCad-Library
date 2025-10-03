@@ -1,0 +1,9 @@
+Manufacturer=Worldsemi
+PartNumber=WS2813B-V5
+PartCategory=LED
+PackageCategory=Other
+PinCount=6
+Version=1.2
+Released=2021-08-21 09:40:11
+Downloaded=2025-09-23 16:36:30
+3D=Y
