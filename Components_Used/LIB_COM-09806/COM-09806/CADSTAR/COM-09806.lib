@@ -1,0 +1,18 @@
+.COM-09806 :1 ;SparkFun Accessories Trimpot 10K Ohm with Knob,TSR-3386U
+COM09806
+*STM VR
+*NGS
+*PLB 1="CCW" 2="WIPER" 3="CW"
+*MXP 3
+*DFN COM-09806
+~!Manufacturer_Name (SparkFun)
+~!Manufacturer_Part_Number (COM-09806)
+~!Mouser Part Number (474-COM-09806)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/SparkFun/COM-09806?qs=WyAARYrbSnZfuYr3d0NLOQ%3D%3D)
+~!Arrow Part Number (COM-09806)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/com-09806/sparkfun-electronics?region=nac)
+~!Link Datasheet (https://www.sparkfun.com/datasheets/Components/General/TSR-3386.pdf)
+~!Height (5.08mm)
+~!3D_Model (COM-09806)
+COM-09806
+1.1!U 2.1!U 3.1!U 

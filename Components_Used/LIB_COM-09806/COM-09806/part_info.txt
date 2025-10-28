@@ -1,0 +1,9 @@
+Manufacturer=SparkFun
+PartNumber=COM-09806
+PartCategory=Variable Resistor
+PackageCategory=Other
+PinCount=3
+Version=1.2
+Released=2024-05-10 14:24:01
+Downloaded=2025-10-14 15:14:13
+3D=Y

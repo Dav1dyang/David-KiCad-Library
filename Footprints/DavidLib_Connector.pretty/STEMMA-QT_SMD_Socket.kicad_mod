@@ -292,7 +292,7 @@
 		(uuid "478f82af-5396-4bc9-9681-21cc1e0501b1")
 	)
 	(embedded_fonts no)
-	(model "SM04B-SRSS-TB_LF__SN_.stp"
+	(model "/Users/davidyang/Documents/GitHub/David_KiCad_Library/Components_Used/LIB_SM04B-SRSS-TB_LF__SN_-1/SM04B-SRSS-TB_LF__SN_/3D/SM04B-SRSS-TB_LF__SN_.stp"
 		(offset
 			(xyz 2.999999955 4.179999766 -0.2899999873)
 		)

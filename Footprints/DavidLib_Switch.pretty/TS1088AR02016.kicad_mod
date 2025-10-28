@@ -54,8 +54,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -3.3 0)
-		(end -3.3 0)
+		(start -2.65 1.45)
+		(end -2.65 1.45)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -64,8 +64,8 @@
 		(uuid "36d8a93a-7d4c-430d-80a1-10d6bf94cf65")
 	)
 	(fp_line
-		(start -3.2 0)
-		(end -3.2 0)
+		(start -2.6 1.45)
+		(end -2.6 1.45)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -94,9 +94,9 @@
 		(uuid "3bfa7d10-54e8-423f-9796-ad4484b288e5")
 	)
 	(fp_arc
-		(start -3.3 0)
-		(mid -3.25 -0.05)
-		(end -3.2 0)
+		(start -2.65 1.45)
+		(mid -2.6 1.4)
+		(end -2.55 1.45)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -105,9 +105,9 @@
 		(uuid "133e5e22-0e1e-4c84-85ec-287f27732aa7")
 	)
 	(fp_arc
-		(start -3.2 0)
-		(mid -3.25 0.05)
-		(end -3.3 0)
+		(start -2.55 1.45)
+		(mid -2.6 1.5)
+		(end -2.65 1.45)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -219,7 +219,7 @@
 		(uuid "454b443f-4764-4b1a-84cd-f838ac5792ca")
 	)
 	(embedded_fonts no)
-	(model "TS-1088-AR02016.stp"
+	(model "/Users/davidyang/Documents/GitHub/David_KiCad_Library/Components_Used/LIB_TS-1088-AR02016/TS-1088-AR02016/3D/TS-1088-AR02016.stp"
 		(offset
 			(xyz 0 0 0)
 		)

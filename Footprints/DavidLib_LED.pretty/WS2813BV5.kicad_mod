@@ -264,7 +264,7 @@
 		(uuid "baa80ef5-07fb-4786-b373-8deee8708f84")
 	)
 	(embedded_fonts no)
-	(model "WS2813B-V5.stp"
+	(model "/Users/davidyang/Documents/GitHub/David_KiCad_Library/Components_Used/LIB_WS2813B-V5/WS2813B-V5/3D/WS2813B-V5.stp"
 		(offset
 			(xyz 0 0 0)
 		)

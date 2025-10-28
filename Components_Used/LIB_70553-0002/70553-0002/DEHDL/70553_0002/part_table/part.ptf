@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '70553_0002'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "70553-0002" (!) = "", "SHDRRA3W64P0X254_1X3_813X1359X699P", "Header, Shrouded - Right Angle PTH Box", "538-70553-0002", "https://www.mouser.co.uk/ProductDetail/Molex/70553-0002?qs=ZwgtpdmWYYSlNv8ZbhKL1w%3D%3D", "", "", "Headers & Wire Housings R/A HDR 3P low profile single", "https://www.molex.com/pdm_docs/sd/705530002_sd.pdf", "6.99 mm"
+END_PART
+
+END.

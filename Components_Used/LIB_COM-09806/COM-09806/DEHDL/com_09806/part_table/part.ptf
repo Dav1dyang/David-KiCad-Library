@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'COM_09806'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SparkFun", "COM-09806" (!) = "", "COM09806", "Other", "474-COM-09806", "https://www.mouser.co.uk/ProductDetail/SparkFun/COM-09806?qs=WyAARYrbSnZfuYr3d0NLOQ%3D%3D", "COM-09806", "https://www.arrow.com/en/products/com-09806/sparkfun-electronics?region=nac", "SparkFun Accessories Trimpot 10K Ohm with Knob,TSR-3386U", "https://www.sparkfun.com/datasheets/Components/General/TSR-3386.pdf", "5.08 mm"
+END_PART
+
+END.

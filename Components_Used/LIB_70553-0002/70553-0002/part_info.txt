@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=70553-0002
+PartCategory=Connector
+PackageCategory=Header, Shrouded - Right Angle PTH Box
+PinCount=3
+Version=1.1
+Released=2020-10-02 09:13:33
+Downloaded=2025-10-14 14:42:22
+3D=Y
